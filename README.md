@@ -1,4 +1,27 @@
-### Hi there 👋
+## Hi, I'm Samuel Florez 👋
+
+Computer technologist and frontend developer in progress 🌱, geek, passionate about learning new technologies 💻 , with basic knowledge in web development with HTML, CSS and JavaScript. Always focused on continuous learning 📚 🤓 .
+
+### Linux commands 🐧 
+
+| Command | Description |
+| ------ | ------ |
+| date | Show system date |
+| whoami | Show your username |
+| pwd | Show current directory |
+| cd | Change directory |
+| ls | List files |
+| grep | Search for pattern in flies |
+| cp | Copy files |
+| mv | Move files |
+| rm | Delete files |
+
+### Alias commands ✨ 
+
+| Alias | Description |
+| ------ | ------ |
+| ll | List files with option -lh |
+| cl | Clear screen |
 
 <!--
 **muxanz/muxanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
