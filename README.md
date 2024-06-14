@@ -1,6 +1,6 @@
 ## Hi, I'm Samuel Florez 👋
 
-Computer technologist and frontend developer in progress 🌱, geek, passionate about learning new technologies 💻 , with basic knowledge in web development with HTML, CSS and JavaScript. Always focused on continuous learning 📚 🤓 .
+Web developer in progress 🌱, geek, passionate about learning new technologies 💻 , with basic knowledge in web development with HTML, CSS and JavaScript. Always focused on continuous learning 📚 🤓 .
 
 ### Linux commands 🐧 
 
