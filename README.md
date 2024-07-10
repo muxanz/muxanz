@@ -20,8 +20,9 @@ Web developer in progress 🌱, geek, passionate about learning new technologies
 
 | Alias | Description |
 | ------ | ------ |
-| ll | List files with option -lh |
+| lll | List files with option -lha |
 | cl | Clear screen |
+| free | See memory used |
 
 <!--
 **muxanz/muxanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
